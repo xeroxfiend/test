@@ -27,3 +27,4 @@ console.log("Array = ", myArray)
 let newArray = myArray.slice(6,11)
 
 console.log(myArray, newArray)
+
